@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://openclaw-discord.com/sitemap.xml
+Disallow: /
